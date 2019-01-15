@@ -7,9 +7,8 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 /**
- * UserServiceTest02<br>
- * 作者: 每特教育-余胜军<br>
- * 联系方式:QQ644064779|WWW.itmayiedu.com<br>
+ * UserServiceTest02
+ * duoduq
  */
 @Service
 @Slf4j

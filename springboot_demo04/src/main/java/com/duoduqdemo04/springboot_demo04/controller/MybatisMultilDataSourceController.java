@@ -7,9 +7,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * 多数据源测试<br>
- * 作者: 每特教育-余胜军<br>
- * 联系方式:QQ644064779|WWW.itmayiedu.com<br>
+ * 多数据源测试
+ * duoduq
  */
 @RestController
 public class MybatisMultilDataSourceController {

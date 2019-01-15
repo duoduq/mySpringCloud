@@ -14,9 +14,8 @@ import org.springframework.jdbc.datasource.DataSourceTransactionManager;
 import javax.sql.DataSource;
 
 /**
- * 读取DataSource02数据源<br>
- * 作者: 每特教育-余胜军<br>
- * 联系方式:QQ644064779|WWW.itmayiedu.com<br>
+ * 读取DataSource02数据源
+ * duoduq
  */
 // DataSource01
 @Configuration // 注册到springboot容器中
