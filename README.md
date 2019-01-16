@@ -7,3 +7,6 @@
 ## SpringBoot_demo05 集成mybatis 多数据源jta-atomikos解决分布式事务
 ## SpringBoot_demo06 集成jdbcTemplate
 ## SpringBoot_demo07 devTools热部署
+## SpringBoot_demo08 集成Actuator
+## SpringBoot_demo09 集成AdminUI-server
+## SpringBoot_demo10 集成AdminUI-client
