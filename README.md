@@ -10,3 +10,5 @@
 ## SpringBoot_demo08 集成Actuator
 ## SpringBoot_demo09 集成AdminUI-server
 ## SpringBoot_demo10 集成AdminUI-client
+## SpringBoot_demo11 集成的MyBatis，pagehelper分页
+## SpringBoot_demo12 纯手写简单的springboot
