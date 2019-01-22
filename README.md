@@ -12,3 +12,4 @@
 ## SpringBoot_demo10 集成AdminUI-client
 ## SpringBoot_demo11 集成的MyBatis，pagehelper分页
 ## SpringBoot_demo12 纯手写简单的springboot
+## springcloud_consul_producer/consumer springcloud集成consul做注册中心
