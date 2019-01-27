@@ -12,4 +12,7 @@
 ## SpringBoot_demo10 集成AdminUI-client
 ## SpringBoot_demo11 集成的MyBatis，pagehelper分页
 ## SpringBoot_demo12 纯手写简单的springboot
+## SpringBoot_demo13 集成EhCache
 ## springcloud_consul_producer/consumer springcloud集成consul做注册中心
+## Springcloud_eureka_server/producer/consumer springcloud集成eureka注册中心,Feign,Hystrix
+## Springcloud_eureka_server/hystrix_dashboard/turbine_hystrix springcloud集成Hystrix Dashboard和Turbine熔断监控
