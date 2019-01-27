@@ -1,5 +1,6 @@
 package com.duoduq.springcloud_eureka_consumer.service;
 
+import com.duoduq.springcloud_eureka_consumer.controller.HelloRomoteHystrix;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -9,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestParam;
  * @Date: 2019/1/23 18:23
  * @Description:
  */
-@FeignClient(name = "eureka-producer")
+@FeignClient(name = "eureka-producer",fallback = HelloRomoteHystrix.class)
 public interface HelloRemote {
 	@RequestMapping(value = "/hello")
 	public String hello(@RequestParam(value = "name") String name);
